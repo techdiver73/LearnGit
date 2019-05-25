@@ -1,2 +1,2 @@
 /* 3. dosya */
-pull için değişiklik yapmıştık.
+pull için değişiklik yapmıştık...
